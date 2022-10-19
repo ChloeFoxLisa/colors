@@ -14,8 +14,8 @@ body {
 
 .header {
     position: absolute;
-    background-color: #900;
-    color: white;
+    background-color: wheat;
+    color: black;
     text-align: center;
     width: 100vw;
     padding: 10px 0;
@@ -69,8 +69,8 @@ body {
 .footer {
     position: absolute;
     bottom: 0%;
-    background-color: #900;
-    color: white;
+    background-color: wheat;
+    color: black;
     text-align: center;
     width: 100vw;
     padding: 10px 0;
